@@ -18,7 +18,7 @@ namespace Lab3App
 
         public override void DoAction()
         {
-            Console.WriteLine("Axe is Used");
+            Console.WriteLine("Axe is used");
         }
 
         public override void Display()
